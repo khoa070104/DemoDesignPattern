@@ -1,0 +1,14 @@
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\bin\Debug\net8.0\BuilderDesignPattern.exe
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\bin\Debug\net8.0\BuilderDesignPattern.deps.json
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\bin\Debug\net8.0\BuilderDesignPattern.runtimeconfig.json
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\bin\Debug\net8.0\BuilderDesignPattern.dll
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\bin\Debug\net8.0\BuilderDesignPattern.pdb
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\obj\Debug\net8.0\BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\obj\Debug\net8.0\BuilderDesignPattern.AssemblyInfoInputs.cache
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\obj\Debug\net8.0\BuilderDesignPattern.AssemblyInfo.cs
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\obj\Debug\net8.0\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\obj\Debug\net8.0\BuilderDesignPattern.dll
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\obj\Debug\net8.0\refint\BuilderDesignPattern.dll
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\obj\Debug\net8.0\BuilderDesignPattern.pdb
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\obj\Debug\net8.0\BuilderDesignPattern.genruntimeconfig.cache
+D:\Documents\PRN212\DemoDesignPartern\DemoDesignPartern\obj\Debug\net8.0\ref\BuilderDesignPattern.dll

@@ -1,0 +1,14 @@
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.exe
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.deps.json
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.runtimeconfig.json
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.dll
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.pdb
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.AssemblyInfo.cs
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.dll
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\obj\Debug\net8.0\refint\AbstractFactoryDesignPattern.dll
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.pdb
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.genruntimeconfig.cache
+D:\Documents\PRN212\DemoDesignPartern\AbstractFactoryDesignPattern\obj\Debug\net8.0\ref\AbstractFactoryDesignPattern.dll
